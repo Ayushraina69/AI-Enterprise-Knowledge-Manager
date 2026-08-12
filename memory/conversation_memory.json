@@ -1,0 +1,8 @@
+[
+    {
+        "timestamp": "2026-08-12T02:40:24.833726",
+        "user_question": "What is the WFH policy?",
+        "answer": "Employees can work from home up to 2 days per week.",
+        "source": "wfh_policy.txt"
+    }
+]

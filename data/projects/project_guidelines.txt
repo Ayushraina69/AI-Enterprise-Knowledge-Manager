@@ -1,0 +1,11 @@
+NOVATECH SOLUTIONS
+Project Guidelines
+
+All projects should have a documented objective, scope, owner, and timeline.
+Project requirements must be documented before major development begins.
+Major project decisions should be recorded in meeting notes.
+Project owners are responsible for tracking milestones.
+Changes to project scope should be communicated to relevant stakeholders.
+Risks and blockers should be documented and reviewed regularly.
+Completed projects should include a final summary and lessons learned.
+Project documentation should be stored in the approved company knowledge repository.

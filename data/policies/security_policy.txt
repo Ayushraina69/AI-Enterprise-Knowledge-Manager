@@ -1,0 +1,10 @@
+NOVATECH SOLUTIONS
+IT Security Policy
+
+Employees must use strong passwords for company accounts.
+Multi-factor authentication must be enabled wherever available.
+Company credentials must never be shared with other employees.
+Employees must not install unauthorized software on company devices.
+Suspicious emails, links, or attachments must be reported to the IT team.
+Company data must not be transferred to personal storage without authorization.
+Security incidents should be reported to the IT team immediately.
